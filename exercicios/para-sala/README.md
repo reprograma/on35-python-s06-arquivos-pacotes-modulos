@@ -1,10 +1,11 @@
 # Exercício de Sala 🏫  
 
 ## Nome do Exercicio
+-Abrir o drive com as planilhas que serão utilizadas:
+Link do Drive: https://drive.google.com/drive/folders/1syeO00xDHh-JpW9583dXIWOHbvw2uF-w?usp=drive_link
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+-1° exercício: Exemplo em sala. Planinhas: abril-2024.csv, maio-2024-csv.
+- 2° execício em grupo: Tratamento de dados das planilhas que estão no Drive. Nome da Planilha: exercicios_localizacao.
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
