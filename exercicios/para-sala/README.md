@@ -4,7 +4,7 @@
 -Abrir o drive com as planilhas que serão utilizadas:
 Link do Drive: https://drive.google.com/drive/folders/1syeO00xDHh-JpW9583dXIWOHbvw2uF-w?usp=drive_link
 
--1° exercício: Exemplo em sala. Planinhas: abril-2024.csv, maio-2024-csv.
+- 1° exercício: Exemplo em sala. Planinhas: abril-2024.csv, maio-2024-csv.
 - 2° execício em grupo: Tratamento de dados das planilhas que estão no Drive. Nome da Planilha: exercicios_localizacao.
 ---
 

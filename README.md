@@ -4,7 +4,7 @@
 
 # Tema da Aula
 
-Turma Online X | Semana X | 202X | Professora X
+Turma Online on35 | Semana 6 | 2024 | Professora Natália Oliveira
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
