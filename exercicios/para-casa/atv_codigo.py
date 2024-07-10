@@ -39,28 +39,3 @@ print(f'arquivo criado com sucesso!')
 #     print(df)
 
 
-# tabela = pd.read_excel("atv-casa.xlsx") #Poderia ter , sheet_name=0 para indicar que é a primeira aba
-# display(tabela)
-
-# tabela = pd.read_excel("atv-casa.xlsx", sheet_name=1)#segunda aba
-# display(tabela)
-
-# tabela = pd.read_excel("atv-casa.xlsx", sheet_name='notas_t2')
-# display(tabela)
-
-#Selecionando as colunas pelo nome da "coluna"
-# tabela = pd.read_excel("atv-casa.xlsx", sheet_name='notas_t2',usecols="A:H")
-# display(tabela)
-
-#Pegando todas as informações de um arquivo
-# tabela = pd.read_excel("atv-casa.xlsx", sheet_name=None)#todas as informações de toda planilha (todas as abas)
-# display(tabela)
-
-#Pegar determinada quantidade de linhas
-# tabela = pd.read_excel("atv-casa.xlsx", sheet_name="notas_t1",skiprows=7)#aba notas_t1 e pula/desconsidera 7 linhas
-# display(tabela)
-
-#Pular linhas
-# tabela = pd.read_excel("atv-casa.xlsx", sheet_name="notas_t1",nrows=11)#aba notas_t1 e pula/desconsidera 7 linhas
-# display(tabela)
-
