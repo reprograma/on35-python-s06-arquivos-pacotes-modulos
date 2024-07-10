@@ -37,6 +37,8 @@ with open('maio_abril_2024.csv', newline='', encoding='utf-8') as csvfile:
 - [Módulo em Python:]<https://docs.python.org/pt-br/3/tutorial/modules.html>
 - [Tabelas Dinâmicas:]<https://kondado.com.br/blog/blog/2023/04/17/criando-uma-tabela-dinamica-no-google-sheets/>
 - [Video sobre Tabelas Dinâmicas:]<https://www.youtube.com/watch?v=QdW78AkPjG0>
+
+- 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
 
 - [ ] Fiz o fork do repositório.
