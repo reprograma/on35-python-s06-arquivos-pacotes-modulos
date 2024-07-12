@@ -1,9 +1,9 @@
-# Abre/Criar o arquivo 'maio_abril_2024.csv' para escrita
-arquivo = open('abril_maio_2024.csv', 'w')
+# Abre/Criar o arquivo 'exercicio01_t1_t2.csv' para escrita
+arquivo = open('exercicio01_t1_t2.csv', 'w')
 # Cria a linha de cabeçalho de saída
 arquivo.write("id,mean\n")
 # Lista de arquivos CSV que serão mesclados
-csv_files = ['abril-2024.csv', 'maio-2024.csv']
+csv_files = ['exercicio01_t1.csv', 'exercicio01_t2.csv']
 # Itera por todos os arquivos CSV que você deseja mesclar
 for filename in csv_files:
     # Abre cada arquivo CSV no modo de leitura
