@@ -5,7 +5,7 @@ arquivo = open('maio_abril_2024.csv', 'w')
 arquivo.write("id,mean\n")
 
 # Lista de arquivos CSV que serão mesclados
-csv_files = ['abril-2024.csv', 'maio2-2024.csv']
+csv_files = ['abril-2024.csv', 'maio-2024.csv']
 
 # Itera por todos os arquivos CSV que você deseja mesclar
 for filename in csv_files:
