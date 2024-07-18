@@ -1,0 +1,15 @@
+Código do Produto,Quantidade,Preço,,,Total da Compra
+P059,4,"R$ 99,51",,,"R$ 1.078,75"
+P065,6,"R$ 80,19",,,
+P028,2,"R$ 78,41",,,
+P086,5,"R$ 8,55",,,
+,,,,,
+Código do Produto,P059,P065,P028,P086,
+Quantidade,4,6,2,5,
+Preço,"R$ 99,51","R$ 80,19","R$ 78,41","R$ 8,55",
+,,,,,
+Valor frete,,Cód do Produto,Quantidade,Preço,Total com Frete
+7,,P059,4,"R$ 99,51","R$ 405,04"
+,,P065,6,"R$ 80,19","R$ 488,14"
+,,P028,2,"R$ 78,41","R$ 163,82"
+,,P086,5,"R$ 8,55","R$ 49,75"
