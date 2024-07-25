@@ -1,6 +1,6 @@
 import csv  # Importa o módulo csv, que fornece funcionalidades para ler e escrever arquivos CSV
 
-# Abre o arquivo 'maio_abril_2024.csv' para leitura, usando o gerenciador de contexto 'with'
+# Abre o arquivo 'abril_maio_2024.csv' para leitura, usando o gerenciador de contexto 'with'
 # O parâmetro 'newline=""' é usado para evitar problemas com quebras de linha
 # O parâmetro 'encoding="utf-8"' garante que o arquivo seja lido usando a codificação UTF-8
 with open('abril_maio_2024.csv', newline='', encoding='utf-8') as csvfile:

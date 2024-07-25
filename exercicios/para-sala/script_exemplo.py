@@ -1,4 +1,4 @@
-# Abre/Criar o arquivo 'maio_abril_2024.csv' para escrita
+# Abre/Criar o arquivo 'abril_maio_2024.csv' para escrita
 arquivo = open('abril_maio_2024.csv', 'w')
 
 # Cria a linha de cabeçalho de saída
